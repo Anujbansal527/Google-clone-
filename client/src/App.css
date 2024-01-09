@@ -1,0 +1,7 @@
+
+.container{
+  width:60%;
+  background:white;
+  box-sizing: 0 0 5px rgba(0,0,0,0.5);
+  margin: 10px auto 10px auto !important;
+}
